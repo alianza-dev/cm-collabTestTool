@@ -1,6 +1,8 @@
 # collab-test-tool
 This SDK based collab test tool have the ability to start a audio + video SIP call and join collab chat room. 
   - Test tool works only on Linux machine (webadm@web-testbox)
+    - ssh webadm@web-testbox
+    - Password : Ask Himani 
   - Go to `cd test_automation/collab/`
 
 ## Jenkins Tool Location:
