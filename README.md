@@ -5,7 +5,7 @@ This SDK based collab test tool have the ability to start a audio + video SIP ca
 
 ## Jenkins Tool Location:
 - Jenkins: http://winsdkrosy.cp.local:8080/job/linuxCollabTestTool-trunk
-- Download Links: http://winsdkrosy.cp.local:8080/job/linuxCollabTestTool-trunk/ws/core/cpcapi2_auto_tests/Linux/build/collab_test_tool
+- Download Link: http://winsdkrosy.cp.local:8080/job/linuxCollabTestTool-trunk/ws/core/cpcapi2_auto_tests/Linux/build/collab_test_tool
 
 ## There are 2 config files for this tool:
  - cpcapi2_collab_test_tool.config
@@ -43,6 +43,7 @@ This SDK based collab test tool have the ability to start a audio + video SIP ca
 Run collab_test_tool and added complete logs in collab.log file
 
 ``` ./collab_test_tool >> collab.log ```
+
 ### Test Results
 
 Success test logs looks like this if grep "\[\[" from complete logs
@@ -67,5 +68,3 @@ Success test logs looks like this if grep "\[\[" from complete logs
 [[OK[unsubscribed to the conference]]]
 [[OK[conference ended]]]
 ```
-
-
