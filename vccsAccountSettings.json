@@ -1,0 +1,27 @@
+{
+    "vccsAccount": [
+        {
+            "vccsAccountSettings" : {
+
+                "group" : "counterpath.com",
+
+                "userName" : "AutoTest",
+
+                "password" : "AutoTestPwd",
+
+                "displayName" : "displayName",
+
+                "wsSettings" : {
+                    "webSocketURL" : "https://collab.cloudprovisioning.com:443/join",
+                    "pingIntervalSeconds" : 50,
+                    "initialRetryIntervalSeconds" : 5,
+                    "maxRetryIntervalSeconds" : 800,
+                    "certMode" : 0,
+                    "logPayload" : true,
+                    "backgroundSocketsIfPossible" : false,
+                    "isLoginRequired" : true
+                }
+            }
+        }
+    ]
+}
