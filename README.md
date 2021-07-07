@@ -46,6 +46,9 @@ Run collab_test_tool and added complete logs in collab.log file
 
 ``` ./collab_test_tool >> collab.log ```
 
+**NOTE** 
+If you get an error executable do not run give 777 permission to binary or related files 'chmod 777 collab_test_tool'
+
 ### Test Results
 
 Success test logs looks like this if grep "\[\[" from complete logs
